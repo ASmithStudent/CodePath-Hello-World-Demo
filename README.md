@@ -4,7 +4,7 @@
 A simple iOS application that allows the user 3 buttons to press that each do different things.
 
 ### App Walk-though
-<img src="CodePath-Hello-World-Demo/Test.gif" width=200><br>
+<img src="CodePath-Hello-World-Demo/Test.gif" width=200 /><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label!
